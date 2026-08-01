@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 👋 Hi, I'm Shakeel<br><br>🎓 Computer Science student (5th Semester) passionate about technology and continuous learning.<br><br>🌐 Currently learning **Full Stack Web Development** and **AI Automation** while exploring modern technologies.<br><br>💡 I enjoy building real-world projects, solving problems, and creating products that deliver value.<br><br>🚀 Always learning, building, and improving.<br>
 
 
